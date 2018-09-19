@@ -12,6 +12,5 @@ layout: default
 
 [Link to a file]({{ site.baseurl }}{% link _posts/2018-09-16-welcome-to-jekyll.markdown %})
 
-{{site.time}}
 
-{%- site.pages -%}
+{{ site.pages }}
