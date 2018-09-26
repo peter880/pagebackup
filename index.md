@@ -13,11 +13,10 @@ layout: default
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									##<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
+									<p><a href="{{ post.url | absolute_url }}" class="button">見全文</a></p>
+
   								</article>
                   {% if mod3 == 0 %}
                   <article>
