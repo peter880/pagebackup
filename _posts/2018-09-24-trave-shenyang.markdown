@@ -3,15 +3,16 @@ layout: post
 title: "遼寧.瀋陽"
 date: 2018-09-24 14:30:08 +0800
 ---
-瀋陽，又稱盛京，清朝入關中原之前的政治中心，民國時期又稱奉天，北洋政府最後一任總統張作霖的老巢。
-東三省中我最想去的城市，但是卻是最後才去的
+> 瀋陽，又稱盛京，清朝入關中原之前的政治中心，民國時期又稱奉天，北洋政府最後一任總統張作霖的老巢.
+東三省中我最想去的城市，但是卻是最後才去的，因為....最好的總是留到最後的心理作祟吧！
 
-<h1>交通</h1>
+交通
+===
 K53: 北京 --> 瀋陽北
 K54: 瀋陽北 --> 北京
 
 
-<h1>景點</h1>
+# 景點
 瀋陽故宮
 中街逛街
 北寧公園，清昭陵
@@ -19,10 +20,8 @@ K54: 瀋陽北 --> 北京
 大帥府
 東北大學
 太原街
+{{site.time}} 
 
-<iframe id="fr" src="//github-profile.joytou.net/gh-profile/?user=joytou&bio=true&locations=true&blog=true&email=true&company=false&iframeid=fr" allowtransparency="true" frameborder="0" scrolling="no" height="240" width="100%"></iframe>
-
-上面的配置文件是展示個性簽名，位置，博客地址，電子郵件和自動調整高度的實時示例。除此之外，您也可以選擇展示您的公司（組織）。
 
 
 <h1>美食</h1>
