@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: 痞德趴趴走
 tagline: Supporting tagline
 ---
