@@ -14,6 +14,9 @@ K54: 瀋陽北 --> 北京
 
 # 景點
 瀋陽故宮
+
+<img src="https://i.imgur.com/NKCQUWj.jpg" height="480px" width="640px"> 
+
 中街逛街
 北寧公園，清昭陵
 遼寧省博物館（馬的超遠）
