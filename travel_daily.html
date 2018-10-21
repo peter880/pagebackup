@@ -6,8 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<h2>All Pages</h2>
+<h2>旅行</h2>
+{{% for post in site.posts %}}
 <ul>
-{% assign pages_list = site.pages %}
+{% assign pages_list = site.posts %}
 {% include JB/pages_list %}
 </ul>
+{{% endfor %}}
