@@ -1,12 +1,12 @@
 ---
-layout: post_custom
+layout: post
 title: "遼寧.瀋陽"
 date: 2018-09-24 14:30:08 +0800
 categories: [blog, travel]
 tags: [hot, summer]
 
 ---
-![瀋陽車站](/assets/image/20180921/shengyang0003.JPG)
+![瀋陽車站](/assets/image/20180921/shengyang0003.JPG){:.img-thumbnail}
 
 瀋陽舊稱奉天、盛京，遼寧省的省會，中國東北地區的第一大城以及交通樞紐，清兵入山海關之前的政治文化中心。民國時期，人稱東北王的奉系軍閥首腦、北洋政府大總統張作霖的老巢。兩天兩夜的夜車行（假期太少，要省點用呀！☁☁☁☁☁），對於走遍這個歷史名城有點短暫，我覺得很值得。
 

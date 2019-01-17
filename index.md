@@ -1,5 +1,5 @@
 ---
-layout: default_custom
+layout: page
 title: 痞德趴趴走
 tagline: Supporting tagline
 ---

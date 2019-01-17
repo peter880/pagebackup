@@ -1,5 +1,5 @@
 ---
-layout: post_custom
+layout: post
 title: "北京.古北水鎮"
 date: 2018-10-30 21:12:08 +0800
 categories: china travel

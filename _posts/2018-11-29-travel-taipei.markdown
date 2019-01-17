@@ -1,5 +1,5 @@
 ---
-layout: post_custom
+layout: post
 title: "台灣.台北"
 date: 2018-11-29 23:11:08 +0800
 categories: taiwan travel
@@ -11,11 +11,11 @@ categories: taiwan travel
 
 
 
-# 桃園機場：曾經的中正國際機場
+## 桃園機場：曾經的中正國際機場
 
 坐上飛機乘著亂流搖晃，有時候心裡就像飛機的氣流一樣不平靜，直到看到陸地，心裡才覺得比較踏實
 
-![台北](/assets/image/20181123/taipei0205.JPG) 
+![台北](/assets/image/20181123/taipei0205.JPG){:.img-thumbnail}
 
 ▲ 看到這風景，代表快到家囉
 
@@ -24,7 +24,7 @@ categories: taiwan travel
 
 我很喜歡桃園機場的這些裝置藝術，尤其是第一航廈出國都會經過的書法牆。除了Hello Kitty以外，都代表了台灣的一些特色，文化，還有景點，一目了然！
 
-# 選舉看開票
+## 選舉看開票
 
 今年2018年是台灣的地方選舉，為了投下我支持的候選人就回來了，在大陸的這段時間，身邊的朋友聽到我要回家投票，就有十萬個為什麼要問了：
 
@@ -36,7 +36,7 @@ Q3: 票可以花錢買嗎？(這是違法的！當然不行啦！)
 
 ......
 
-![台北](/assets/image/20181123/taipei0222.JPG)  
+![台北](/assets/image/20181123/taipei0222.JPG){:.img-thumbnail}  
 
 ▲ 開票節目，很緊張
 
@@ -44,51 +44,51 @@ Q3: 票可以花錢買嗎？(這是違法的！當然不行啦！)
 
 不管怎麼樣我覺得能不受影響的選擇和自己理念相符的候選人，還是很幸福的。有時候朋友會說：台灣看起來亂糟糟的，感覺隨時要垮了。經過20多年的洗禮，我相信我們的素養會越來會成熟，但是由於政治造成的社會亂象可能不會終止吧！
 
-![台北](/assets/image/20181123/taipei0229.JPG)  
+![台北](/assets/image/20181123/taipei0229.JPG){:.img-thumbnail}  
 
 ▲ 台北市長候選人柯文哲開票晚會
 
-# 台北街頭漫遊
+## 台北街頭漫遊
 
 不同於到出門旅行，回家就是到處走走，買買東西，拜訪朋友，台北的街景雖然沒有北京新穎，歷史也沒有北京悠久，甚至和很多大陸的城市來比顯得落後。但是這個城市經歷了日本統治、國府遷台帶來了中國各省的菁英、民國90年代以後大量引入東南亞的勞工或是移居台灣的新住民。這些都為台灣創造出全新的文化以及社會風貌，像是我很愛吃的江浙菜、小籠包、平價又實在的日本料理(北京的日本料理價錢貴)、地道的越南小吃、太原街的東南亞商圈(聽說很多在北台灣的外籍移工周末都會聚集在這邊放鬆一下)
 
- ![台北](/assets/image/20181123/taipei0211.JPG)  
+ ![台北](/assets/image/20181123/taipei0211.JPG){:.img-thumbnail} 
 
- ![台北](/assets/image/20181123/taipei0216.JPG) 
+ ![台北](/assets/image/20181123/taipei0216.JPG){:.img-thumbnail} 
 
- ![台北](/assets/image/20181123/taipei0217.JPG) 
+ ![台北](/assets/image/20181123/taipei0217.JPG){:.img-thumbnail} 
 
- ![台北](/assets/image/20181123/taipei0218.JPG) 
+ ![台北](/assets/image/20181123/taipei0218.JPG){:.img-thumbnail} 
 
 ▲ 路邊亂拍
 
- ![台北](/assets/image/20181123/taipei0219.JPG)  
+ ![台北](/assets/image/20181123/taipei0219.JPG){:.img-thumbnail}  
 
 ▲ 總統府，從南京搬過來的(誤)，日本統治時期的台灣總督府
 
- ![台北](/assets/image/20181123/taipei0221.JPG)  
+ ![台北](/assets/image/20181123/taipei0221.JPG){:.img-thumbnail}  
 
 ▲ 台北的地標；台北101
 
- ![台北](/assets/image/20181123/taipei0234.JPG)  
+ ![台北](/assets/image/20181123/taipei0234.JPG){:.img-thumbnail}  
 
 ▲ 7-11的自助咖啡機  
 
- ![台北](/assets/image/20181123/taipei0232.JPG)  
+ ![台北](/assets/image/20181123/taipei0232.JPG){:.img-thumbnail}  
 
 ▲ 非常好喝的義美厚奶茶，可惜北京沒有賣，不然我每天買來喝(喝到腎發炎了....)  
 
- ![台北](/assets/image/20181123/taipei0233.JPG)  
+ ![台北](/assets/image/20181123/taipei0233.JPG){:.img-thumbnail}  
 
 ▲ 光華商圈的排隊車輪餅
 
- ![台北](/assets/image/20181123/taipei0235.JPG)  
+ ![台北](/assets/image/20181123/taipei0235.JPG){:.img-thumbnail}  
 
 ▲ 土魠魚羹麵，在北京吃不到的好味道
 
- ![台北](/assets/image/20181123/taipei0224.JPG)  
+ ![台北](/assets/image/20181123/taipei0224.JPG){:.img-thumbnail}  
 
- ![台北](/assets/image/20181123/taipei0223.JPG)  
+ ![台北](/assets/image/20181123/taipei0223.JPG){:.img-thumbnail}  
 
 ▲ 老媽煮的一桌菜，看來我的手藝還要再加強了!
 
