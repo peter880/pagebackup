@@ -1,6 +1,6 @@
 <div class="container">
   <div class="row">
-    <div class="col-xs-8">
+    <div class="col-md-8">
       <div class="date">
         <span>{{ page.date | date_to_long_string }}</span>
       </div>
@@ -24,6 +24,7 @@
           <li><i class="glyphicon glyphicon-tags"></i></li>
           {% assign tags_list = page.tags %}
           {% include JB/tags_list %}
+          
         </ul>
       {% endunless %}  
       

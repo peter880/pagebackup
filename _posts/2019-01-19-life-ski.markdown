@@ -2,11 +2,12 @@
 layout: post
 title:  "河北.張家口滑雪"
 date:   2018-12-08 09:21:38 +0800
-categories: lift beijing 
+categories: life beijing 
 tags: ski workout
+pic: https://upload.wikimedia.org/wikipedia/commons/3/3f/Toyota_Corona_2.0_EX_Saloon_%2825338407919%29.jpg
 ---
 
-我很喜歡開車兜風，在台灣的時候有一台25年的TOYOTA CORONA SALOON，那是我的好朋友家裡退役下來的二手車，是一部很好開的車子，有他在的日子陪了我上山下海不少地方
+我很喜歡開車兜風，在台灣的時候有一台25年的TOYOTA CORONA SALOON，那是我的好朋友家裡退役下來的二手車，是一部很好開的車子，有他在的日子陪了我上山下海不少地方<!--more-->
 <div class="panel">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Toyota_Corona_2.0_EX_Saloon_%2825338407919%29.jpg" class="img-thumbnail">
     <div class="panel-heading">
@@ -19,7 +20,7 @@ tags: ski workout
 在這之前，沒到過北京以外的地方滑雪，覺得希望能多體驗生活的我，必須不能錯過到奧運規格的場地去體驗一次滑雪。
 
 
-<!--more-->
+
 
 張家口的滑雪場很多很多，數量不亞於北京(應該是北京的有錢人都跑來張家口滑雪吧？)出門前大概調查了幾個還不錯多人推薦的點；
 
