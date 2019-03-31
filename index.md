@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 痞德趴趴走
-tagline: 熱愛生活、不停旅行、人生不想留下遺憾
+title: 彼得趴趴走
+tagline: 熱愛生活 ‧ 不遺餘力
 ---
 {% include JB/setup %}
 
 <hr>
 
 <div class="row">
-<h2>旅遊日記</h2>
+<h2>旅遊雜記</h2>
 {% for post in site.posts limit:3 %}
   <div class="col-md-4">
   
