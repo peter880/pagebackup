@@ -5,7 +5,7 @@ tagline: 熱愛生活 ‧ 不遺餘力
 ---
 {% include JB/setup %}
 
-<h2>旅遊雜記</h2>
+<h2>新文章</h2>
 {% for post in site.posts limit:6 %}
 <div class="row">
   <div class="col-md-4">  
