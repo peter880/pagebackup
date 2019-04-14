@@ -3,7 +3,7 @@ layout: post
 title:  "河北.保定"
 date:   2019-03-24 12:21:38 +0800
 categories: Travel daily
-pic: \assets\image\20190302\phone\IMAG3192.JPG
+pic: \assets\image\20190324\ubaoding047.JPG
 ---
 
 保定是清朝直隸省的省會，清康熙八年(西元1669年)直隸總督府由正定搬到保定，一直到清朝滅亡，中華民國成立初期都是省會。
@@ -34,7 +34,7 @@ pic: \assets\image\20190302\phone\IMAG3192.JPG
 
 看起來這是按照原來的樣子重建的，如果舊址也如同重建的，那這兩個軍魂實在非常的激勵人心，腦中浮現了以前當兵學過的軍歌：
 
->#### 黃埔軍魂  
+>**黃埔軍魂**    
 >國家的干城　革命的先鋒  
 >  文武合一　薪火相傳  
 >    為國為民盡忠  
@@ -87,6 +87,10 @@ pic: \assets\image\20190302\phone\IMAG3192.JPG
 
 忘記拍照片，不過就像這張在維基百科上的這張照片，驢肉滿到爆，除了火燒以外，很多人還點了驢雜湯，但是我對內臟系列的食物不太感興趣，所以我就沒有點了，老闆娘也很親切，還讓我裝了熱水！
 
+
+![baoding](/assets/image/20190324/baoding025.JPG)  
+**▲ 門口長這樣，招牌掉了幾個字...** 
+
 地址: 永華北大街654號(靠近古蓮花池)
 
 [大眾點評請按我](http://www.dianping.com/shop/2248777)
@@ -107,4 +111,4 @@ pic: \assets\image\20190302\phone\IMAG3192.JPG
 
 
 ## 參考資料  
-https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%9A%E9%99%B8%E8%BB%8D%E8%BB%8D%E5%AE%98%E5%AD%B8%E6%A0%A1
+[wikipedia:保定陸軍軍官學校](https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%9A%E9%99%B8%E8%BB%8D%E8%BB%8D%E5%AE%98%E5%AD%B8%E6%A0%A1)

@@ -3,12 +3,15 @@ layout: post
 title: "陝西.說走就走爬華山"
 date: 2018-11-03 21:12:08 +0800
 categories: china travel
+pic: /assets/image/20181103/IMAG2490.JPG
 ---
-![華山](/assets/image/20181103/IMAG2490.JPG){:.img-thumbnail}   
 
 華山是中國五嶽的名山之一，又以地勢險險峻著稱：長空棧道沿著山壁攀爬，是我對華山第一印象，以為華山所有的棧道都是像長空棧道那樣長，只有薄薄的木板然後在木板上壯膽，這樣我要怎麼爬呀？......
 
 <!--more-->
+![華山](/assets/image/20181103/IMAG2490.JPG){:.img-thumbnail}   
+▲ 華山山門
+
 ![長空棧道](/assets/image/20181103/timg.jpg){:.img-thumbnail} 
 ▲ 長空棧道, 引用一下網上的照片, 因為我沒有勇氣去.... 
 
