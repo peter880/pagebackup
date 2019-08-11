@@ -148,6 +148,9 @@ pic: \assets\image\20190420\chongqing252.JPG
 
 ### 重慶菜
 
+![chongqing](/assets/image/20190420/chongqing209.JPG)  
+**▲ 水煮魚**
+
 參考資料
 [百度百科:渝中半島]("https://baike.baidu.com/item/%E6%B8%9D%E4%B8%AD%E5%8D%8A%E5%B2%9B")
 [和訊新聞]("http://news.hexun.com/2007-12-01/101918529.html")
