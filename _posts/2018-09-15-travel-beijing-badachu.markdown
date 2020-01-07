@@ -10,7 +10,7 @@ categories: china travel
 # 交通
 <continue....> 
 K54: 瀋陽北 --> 北京
-
+![瀋陽車站]("https://xav4vw.sn.files.1drv.com/y4mbxfFqMNnYDfZia_oUKjozgDn-_K7R1MOEvaQWkiW4flqcgnl4otj0gdwbijmOyEN6Tl4vK0OhBmBPeVt9NXbdZ-GzC-C9cA1Wcu9n-P210ebpdFx90HiDRQIeoUfVcCXtmfogRFpoaJQergEyGt4QCNTJKZi-2I4Go3tq-91MICmvPMFV4tg1Ur7ftWywuer-uu0tKPzgVRHEzEgT0naVg?width=660&height=495&cropmode=none"){:.img-thumbnail}
 
 # 景點
 
