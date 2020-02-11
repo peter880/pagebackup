@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 彼得趴趴走
+title : PETER PAPAGO
 tagline: 
 author :
   name : Peter
@@ -137,4 +137,4 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 
-theme: jekyll-theme-slate
+theme:

@@ -1,0 +1,13 @@
+<ul class="list-group">
+    {% for post in site.posts limit:list_limit %}
+    <li class="media ">
+      <img src="{{ post.pic }}" class="img-thumbnail align-self-start mr-3" width=128>
+      <div class="media-body">
+        <h5 class="mt-0"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h5>
+        <h6 class="small">Date: {{ post.date }}</h6>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    </li>
+    {% endfor %}
+</ul>
+<div class="text-right"><a href="/post">Read more..</a></div>
